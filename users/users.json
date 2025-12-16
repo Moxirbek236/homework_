@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1765870583866,
+        "name": "Islombek",
+        "lastName": "Solijonov",
+        "age": 23,
+        "phone": "+998974209686",
+        "isAdmin": true
+    },
+    {
+        "id": 1765900364988,
+        "name": "Moxirbek"
+    }
+]
